@@ -1,6 +1,7 @@
 #ifndef BIBLIOTEST_INCLUDED
 #define BIBLIOTEST_INCLUDED
 
+#define pepe 5
 
 
 #endif // BIBLIOTEST_INCLUDED
